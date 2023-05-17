@@ -1,3 +1,4 @@
 # test_git
 hello world
-change last line master
+master dev both change last line
+
